@@ -1,0 +1,13 @@
+{
+  "name": "ea-site-proxy",
+  "description": "proxies host headers to sites running on specific ports",
+  "version": "1.0.0",
+  "author": "Mickey Yawn",
+  "contributors": [ 
+    { "name": "Mickey Yawn", "email": "mickey.yawn@turner.com" }
+  ],
+  "dependencies": {
+    "http-proxy": "0.8.5"
+  },
+  "engines": { "node": ">= 0.4.1 <= 1.0.0" }
+}
